@@ -6,6 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Continued development](#continued-development)
@@ -19,6 +20,11 @@ A QR Card that users can scan to visit FrontEnd Mentor website. In this project,
 ![QR Design in Desktop view](./images/Screenshots/Desktop.png)
 
 ![QR Design in Mobile view](./images/Screenshots/Mobile.png)
+
+### Links
+
+- Solution URL: [GitHub](https://github.com/LySabrina/QR-Code)
+- Live Site URL: [Live Site](https://lysabrina.github.io/QR-Code/)
 
 ## My process
 
